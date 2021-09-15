@@ -1,6 +1,7 @@
 # keycloak-theme-vanilla
 
 This is a custom theme for eosc-kc installations
+test
 
 ## Installation instructions:
 
